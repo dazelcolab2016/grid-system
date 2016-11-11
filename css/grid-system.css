@@ -17,9 +17,10 @@
 
 .container {
 	width: 960px;
-	padding-left: 14px; 
-	padding-right: 14px;
+	padding-left: 50px; 
+	padding-right: 50px;
 	margin: 0px auto;
+    
 }
 
 .row {
@@ -54,6 +55,7 @@
 .col-3 {
 	/* (3 / 12) x 100 */
 	width: 25%;
+   
 } 
 
 .col-4 {
